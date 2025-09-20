@@ -1,0 +1,40 @@
+<html>
+    <style>
+        img {
+        width:  445px;
+    }
+    </style>
+<body>
+    
+<!--RANDOM IMG PREVIEW SCRIPT (GOT FROM CADNOMORI)-->
+<script>
+                
+
+function random_imglink(){
+var myimages=new Array()
+
+myimages[1]="/random_art/1.png"
+myimages[2]="/random_art/2.png"
+myimages[3]="/random_art/3.png"
+myimages[4]="/random_art/4.png"
+myimages[5]="/random_art/5.png"
+myimages[6]="/random_art/6.png"
+myimages[7]="/random_art/7.png"
+myimages[8]="/random_art/8.png"
+myimages[9]="/random_art/9.png"
+myimages[10]="/random_art/10.png"
+myimages[11]="/random_art/11.png"
+myimages[12]="/random_art/12.png"
+myimages[13]="/random_art/13.png"
+ 
+var ry=Math.floor(Math.random()*myimages.length)
+if (ry==0)
+ry=1
+document.write('<img src="'+myimages[ry]+'" class="icon">')
+}
+random_imglink()
+//-->
+    </script>
+
+</body>
+</html>
