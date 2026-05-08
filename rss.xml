@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+        <channel>
+                <title>amfmradio.org</title>
+                <description>amfmradio's art archive</description>
+                <link>http://amfmradio.org/</link>
+
+                <item>
+                        <title>Misc Blog #10: Amfmradio.org V2 is Here!</title>
+                        <link>http://amfmradio.org/writings/blog/010.html</link>
+                        <guid isPermaLink="true">http://amfmradio.org/writings/blog/010.html</guid>
+                        <pubDate>May 8 2026</pubDate>
+                        <description>Amfmradio.org V2 (and the RSS feed) has been launched!</description>
+                </item>
+
+        </channel>
+</rss>
