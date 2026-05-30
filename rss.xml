@@ -6,6 +6,14 @@
                 <link>http://amfmradio.org/</link>
 
                 <item>
+                        <title>Monthly Blog #5</title>
+                        <link>http://amfmradio.org/writings/monthlyblog/2026_05.html</link>
+                        <guid isPermaLink="true">http://amfmradio.org/writings/monthlyblog/2026_05.html</guid>
+                        <pubDate>May 30 2026</pubDate>
+                        <description>May 2026's monthly roundup.</description>
+                </item>
+
+                <item>
                         <title>Misc Blog #10: Amfmradio.org V2 is Here!</title>
                         <link>http://amfmradio.org/writings/blog/010.html</link>
                         <guid isPermaLink="true">http://amfmradio.org/writings/blog/010.html</guid>
