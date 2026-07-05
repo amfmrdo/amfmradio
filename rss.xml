@@ -6,9 +6,17 @@
                 <link>http://amfmradio.org/</link>
 
                 <item>
+                        <title>New Art Tutorial #2</title>
+                        <link>https://amfmradio.org/writings/tutorials/002.html</link>
+                        <guid isPermaLink="true">https://amfmradio.org/writings/tutorials/002.html</guid>
+                        <pubDate>July 05 2026</pubDate>
+                        <description>Published a new art tutorial on formatting stickers for print.</description>
+                </item>
+
+                <item>
                         <title>Monthly Blog #7</title>
                         <link>http://amfmradio.org/writings/monthlyblog/2026_06.html</link>
-                        <guid isPermaLink="true">http://amfmradio.org/writings/monthlyblog/2026_05.html</guid>
+                        <guid isPermaLink="true">http://amfmradio.org/writings/monthlyblog/2026_06.html</guid>
                         <pubDate>June 30 2026</pubDate>
                         <description>June 2026's monthly roundup. Also includes a few minor updates here and there.</description>
                 </item>
