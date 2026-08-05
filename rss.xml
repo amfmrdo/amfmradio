@@ -5,6 +5,14 @@
                 <description>amfmradio's art archive</description>
                 <link>http://amfmradio.org/</link>
 
+                 <item>
+                        <title>Monthly Blog #7</title>
+                        <link>http://amfmradio.org/writings/monthlyblog/2026_07.html</link>
+                        <guid isPermaLink="true">http://amfmradio.org/writings/monthlyblog/2026_07.html</guid>
+                        <pubDate>August 5 2026</pubDate>
+                        <description>July 2026's monthly roundup.</description>
+                </item>
+
                 <item>
                         <title>New Art Tutorial #2</title>
                         <link>https://amfmradio.org/writings/tutorials/002.html</link>
@@ -14,7 +22,7 @@
                 </item>
 
                 <item>
-                        <title>Monthly Blog #7</title>
+                        <title>Monthly Blog #6</title>
                         <link>http://amfmradio.org/writings/monthlyblog/2026_06.html</link>
                         <guid isPermaLink="true">http://amfmradio.org/writings/monthlyblog/2026_06.html</guid>
                         <pubDate>June 30 2026</pubDate>
