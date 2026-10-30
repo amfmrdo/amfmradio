@@ -6,9 +6,17 @@
                 <link>http://amfmradio.org/</link>
 
                 <item>
+                        <title>Monthly Blog #10</title>
+                        <link>http://amfmradio.org/writings/monthlyblog/2026_10.html</link>
+                        <guid isPermaLink="true">http://amfmradio.org/writings/monthlyblog/2026_10.html</guid>
+                        <pubDate>October 31 2026</pubDate>
+                        <description>October 2026's monthly roundup. Added some new webrings too and fixed up some typos around the site.</description>
+                </item>
+                
+                <item>
                         <title>Monthly Blog #9</title>
                         <link>http://amfmradio.org/writings/monthlyblog/2026_09.html</link>
-                        <guid isPermaLink="true">http://amfmradio.org/writings/monthlyblog/2026_08.html</guid>
+                        <guid isPermaLink="true">http://amfmradio.org/writings/monthlyblog/2026_09.html</guid>
                         <pubDate>September 30 2026</pubDate>
                         <description>September 2026's monthly roundup. Updated shop links.</description>
                 </item>
